@@ -1,0 +1,1 @@
+Archive of old site folder. Files moved to main/pages and main/assets. This folder is kept only for reference.
